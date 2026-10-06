@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>My App</div>
+  return <div>First deployment of react-vercel</div>
 }
